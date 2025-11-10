@@ -9,7 +9,6 @@ const animales = {
       imagen:
         "https://protectorabaix.org/imas/animales/_4261/a_42611762361309.jpg",
     },
-
     {
       nombre: "Dumbo",
       genero: "Hembra",

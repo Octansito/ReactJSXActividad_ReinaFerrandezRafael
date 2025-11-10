@@ -4,8 +4,8 @@ import PetList from "./components/PetList";
 function App() {
   return (
     <Contenedor>
-      <header className="flex items-center justify-between">
-        <h1 className="text-4xl font-extrabold text-purple-700 text-center mt-6 mb-2 font-poppins">
+      <header className="w-full mb-4">
+        <h1 className="font-poppins font-semibold text-[36px] text-center text-[#0C3C34] mt-6 mb-2">
           Nuestros animales en adopción 🐾
         </h1>
       </header>
