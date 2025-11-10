@@ -29,3 +29,13 @@ Prueba 2 (¿es response?):
 <img width="1914" height="1023" alt="image" src="https://github.com/user-attachments/assets/38c042a8-d2d6-4d0a-8bbf-028997e9baab" />
 
 
+Prueba 2
+<img width="1912" height="1023" alt="image" src="https://github.com/user-attachments/assets/f1647b8f-15f4-40b3-aec4-ca63c8641469" />
+  a. Prueba efecto hover 
+  <img width="1920" height="1000" alt="image" src="https://github.com/user-attachments/assets/cf1f3413-adac-4b69-af1d-e103870b0bf6"/>
+
+  b. Prueba desplazamiento con tabulador
+  <img width="1940" height="972" alt="image" src="https://github.com/user-attachments/assets/ed52375a-7deb-4ebf-9b35-5ed60c4c3e76"/>
+
+  c. Prueba response
+  <img width="1144" height="789" alt="image" src="https://github.com/user-attachments/assets/c9d33d43-565e-4f11-ae41-8a30faa1f1cb"/>
