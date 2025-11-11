@@ -2,9 +2,6 @@
 * Clase guía de estética de mi catálogo
 */
 
-/* Importar fuentes */
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Nunito:wght@400;700&display=swap");
-
 /* Clase personalizada para Nunito */
 .font-nunito {
   font-family: "Nunito", sans-serif;

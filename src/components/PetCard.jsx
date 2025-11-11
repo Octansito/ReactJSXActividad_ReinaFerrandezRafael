@@ -6,6 +6,9 @@ function PetCard({ nombre, genero, edad, imagen }) {
   const [esFavorito, setEsFavorito] = useState(false);
 
   return (
+    /**
+     * Aplicación de article porque cada animal es contenido independiente de otro
+     */
     <article
       className="bg-white rounded-xl shadow-md max-w-[240px] w-full h-[226px] flex flex-col mx-auto p-0 transition border border-transparent hover:scale-105 hover:z-10 hover:border-[#0C3C34] focus-visible:scale-105 focus-visible:z-10 focus-visible:border-[#0C3C34]"
       tabIndex={0}
@@ -46,6 +49,7 @@ function PetCard({ nombre, genero, edad, imagen }) {
             padding: 0,
             display: "flex",
           }}
+          tabIndex={-1}
         >
           <img
             src={esFavorito ? favoritoRed : favorito}
