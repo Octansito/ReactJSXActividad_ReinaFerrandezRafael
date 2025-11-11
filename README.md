@@ -39,3 +39,17 @@ Prueba 2
 
   c. Prueba response
   <img width="1144" height="789" alt="image" src="https://github.com/user-attachments/assets/c9d33d43-565e-4f11-ae41-8a30faa1f1cb"/>
+
+
+Prueba 3
+<img width="1890" height="990" alt="image" src="https://github.com/user-attachments/assets/ba05bc3c-f9b3-4b59-9b95-6a308f9f62ff" />
+
+  a.Prueba Checkbox marcados, no implemetada la función de filtrar el catálogo.
+  <img width="1748" height="994" alt="image" src="https://github.com/user-attachments/assets/107bc603-2bf3-4c81-a75b-4895ac6b86e4"/>
+
+  b. Prueba del scroll individual del catálogo
+  <img width="1830" height="1021" alt="image" src="https://github.com/user-attachments/assets/c6a4fcad-107a-411e-beb2-e7bed5b2116b" />
+
+  c. Response 
+<img width="460" height="1015" alt="image" src="https://github.com/user-attachments/assets/fa588e31-d9cd-4de6-accf-0d8ed6badbba" />
+
