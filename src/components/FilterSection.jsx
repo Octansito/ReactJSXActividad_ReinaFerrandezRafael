@@ -8,6 +8,7 @@ import Checkbox from "./CheckBox";
 function FilterSection() {
   /**
    * Vairables para gaurdar el estado del checkbox
+   * (desactivado --> false)
    */
 
   // Especie
