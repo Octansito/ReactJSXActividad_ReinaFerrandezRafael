@@ -1,4 +1,4 @@
-import { FaTwitter, FaLinkedin, FaFacebook } from "react-icons/fa";
+import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -24,18 +24,24 @@ function Footer() {
       {/**Redes Sociales */}
       <div className="flex gap-3">
         <button
+          tabIndex={0}
           className="p-2 rounded-lg transition hover:scale-110 focus:scale-110 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[#0C3C34]"
           aria-label="Twitter"
+          onClick={() => window.open("https://x.com/?logout=1762978503167")}
         >
           <FaTwitter size={36} className="text-white" />
         </button>
         <button
+          tabIndex={0}
+          onClick={() => window.open("https://www.instagram.com/")}
           className="p-2 rounded-lg transition hover:scale-110 focus:scale-110 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[#0C3C34]"
-          aria-label="LinkedIn"
+          aria-label="Instagram"
         >
-          <FaLinkedin size={36} className="text-white" />
+          <FaInstagram size={36} className="text-white" />
         </button>
         <button
+          tabIndex={0}
+          onClick={() => window.open("https://www.facebook.com/?locale=es_ES")}
           className="p-2 rounded-lg transition hover:scale-110 focus:scale-110 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-[#0C3C34]"
           aria-label="Facebook"
         >
