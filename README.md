@@ -53,3 +53,18 @@ Prueba 3
   c. Response 
 <img width="460" height="1015" alt="image" src="https://github.com/user-attachments/assets/fa588e31-d9cd-4de6-accf-0d8ed6badbba" />
 
+
+Prueba 3
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/109f2080-668c-49fa-90db-fb8640bd848e" />
+<img width="1912" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a468e6f-cf5e-4c20-bc46-dc2cc8c3dd0e" />
+
+
+<img width="766" height="1789" alt="image" src="https://github.com/user-attachments/assets/121e6cff-5594-491d-9582-46dac2396302" />
+<img width="658" height="1788" alt="image" src="https://github.com/user-attachments/assets/4b6811ef-6242-4acd-af2c-f46b9c9b93a7" />
+
+
+
+
+
+
