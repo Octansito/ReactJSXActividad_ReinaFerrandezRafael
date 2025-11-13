@@ -4,7 +4,6 @@ import PetList from "./components/PetList";
 import NavigationBar from "./components/NavigationBar";
 import Footer from "./components/Footer";
 /**
- *
  *  Componente principal de la aplicación PawPets
  *  Es el punto de entrada principal donde se combinan y muestran los diferentes componentes de la aplicación
  */
