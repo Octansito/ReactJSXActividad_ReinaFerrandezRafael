@@ -3,7 +3,11 @@ import FilterSection from "./components/FilterSection";
 import PetList from "./components/PetList";
 import NavigationBar from "./components/NavigationBar";
 import Footer from "./components/Footer";
-
+/**
+ *
+ *  Componente principal de la aplicación PawPets
+ *  Es el punto de entrada principal donde se combinan y muestran los diferentes componentes de la aplicación
+ */
 function App() {
   return (
     <>
@@ -25,6 +29,7 @@ function App() {
             </section>
 
             {/* CATÁLOGO */}
+            {/**Aplicamos un scroll bar a la sección del catálogo para mejorar el acceso al contenido */}
             <section className="flex-1 overflow-y-auto max-h-[75vh] pb-6 pr-6 pl-6 ">
               <PetList />
             </section>

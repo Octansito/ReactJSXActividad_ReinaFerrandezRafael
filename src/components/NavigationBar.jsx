@@ -2,7 +2,11 @@ import Logo from "../assets/Logo5.png";
 import menuIcon from "../assets/menu.png";
 import searchIcon from "../assets/search.png";
 import userIcon from "../assets/user.png";
-
+/**
+ *
+ * Incluye el logo, el nombre de la aplicación y los iconos/botones principales para acceder al menú, búsqueda y perfil de usuario.
+ *
+ */
 function NavigationBar() {
   return (
     <nav className="w-full bg-[#0C3C34] flex items-center justify-between px-6 h-[90px]">

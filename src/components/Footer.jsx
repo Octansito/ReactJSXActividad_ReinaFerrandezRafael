@@ -1,5 +1,8 @@
 import { FaTwitter, FaFacebook, FaInstagram } from "react-icons/fa";
-
+/**
+ * Muestra la barra inferior de la aplicación con la información de contacto, enlaces relevantes y redes sociales
+ *
+ */
 function Footer() {
   return (
     <footer className="w-full bg-[#0C3C34] flex items-center justify-between px-8 py-8">

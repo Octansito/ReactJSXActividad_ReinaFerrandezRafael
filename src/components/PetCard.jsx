@@ -1,7 +1,11 @@
 import favorito from "../assets/favorito.svg";
 import favoritoRed from "../assets/favorito-red.svg";
 import { useState } from "react";
-
+/**
+ * Representa una tarjeta individual de animal dentro del catálogo:
+ * - Muestra la imagen, nombre, edad, género y acciones (ver ficha, favorito)
+ * Se utiliza repetidamente para listar todos los animales disponibles
+ */
 function PetCard({ nombre, genero, edad, imagen }) {
   const [esFavorito, setEsFavorito] = useState(false);
 
@@ -16,7 +20,7 @@ function PetCard({ nombre, genero, edad, imagen }) {
       <img
         src={imagen}
         alt={`${nombre} — ${genero}`}
-        className="w-full h-[120px] object-cover object-center rounded-t-xl bg-[#E8F5E9]"
+        className="w-full h-[120px] object-cover object-cover rounded-t-xl bg-[#E8F5E9]"
         loading="lazy"
       />
       <h3 className="font-poppins font-bold text-[18px] text-[#333333] text-left leading-tight mt-2 mb-0 ml-2">
